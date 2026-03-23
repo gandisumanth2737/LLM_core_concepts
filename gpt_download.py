@@ -37,7 +37,8 @@ def download_and_load_gpt2(model_size, models_dir):
         file_path = os.path.join(model_dir, filename)
         print("FILEpath---",file_path)
         #download model by running this file seperately by uncommenting the download_file line
-        # download_file(file_url, file_path, backup_url)
+        #comment it when running cells in ML_DL_Learning.ipynb file
+        download_file(file_url, file_path, backup_url)
 
     # Load settings and params
     # tf_ckpt_path = tf.train.latest_checkpoint(model_dir)

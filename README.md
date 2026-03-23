@@ -7,7 +7,7 @@ Step 1 : Activate a new environment with Python version - 3.10.19
 Step 2 : pip install requirements.txt
 
 Step 3 : run ML_DL_learning.ipynb 
-NOTE : Due to large file size github rendering of this notebook is not recommended. please use this below link--
+NOTE : Due to large file size github rendering of this notebook is not recommended. please use the link below--
 https://nbviewer.org/github/gandisumanth2737/LLM_core_concepts/blob/main/ML_DL_learning.ipynb
 
 Note: Try to run gpt_download.py file seprately to download the weights of GPT models

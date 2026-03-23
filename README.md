@@ -2,7 +2,7 @@
 
 This Repository is a shortened version of Build a Large Language Model (From Scratch). 
 
-Step 1 : Activate a new environment with Python version - 3.10.19
+Step 1 : Activate a new environment with Python version - 3.10.19(recommended)
 
 Step 2 : pip install requirements.txt
 
